@@ -1,0 +1,31 @@
+_repo: Within-these-walls_72904
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hughes, Rupert
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2334'
+    url: http://www.gutenberg.org/2009/agents/2334
+    wikipedia: https://en.wikipedia.org/wiki/Rupert_Hughes
+description: ''
+gutenberg_issued: '2024-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72904'
+language: en
+pgterms:marc904: https://archive.org/details/withinthesewalls00hugh/page/366/mode/2up
+pgterms:marc905: 20230520132722hughes
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Bob Taylor, Carla Foust and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aNew York :$bHarper & Brothers, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Within these walls
+url: http://www.gutenberg.org/ebooks/72904

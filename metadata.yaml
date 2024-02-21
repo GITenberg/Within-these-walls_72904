@@ -1,5 +1,8 @@
 _repo: Within-these-walls_72904
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72904-h/images/cover.jpg
 creator:
   author:
     agent_name: Hughes, Rupert
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2334
     wikipedia: https://en.wikipedia.org/wiki/Rupert_Hughes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72904#Within-these-walls
 gutenberg_issued: '2024-02-08'
 gutenberg_type: Text
 identifiers:
